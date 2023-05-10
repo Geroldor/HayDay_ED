@@ -1,10 +1,9 @@
 # Hay Day do Evandro
 Segundo trabalho de ED de 2022/2023
 
-## Contexto
-<div align="center">
 
-</div>
+## Contexto
+![HD_SelfHelp_Images_6_1624x1060](https://github.com/Geroldor/HayDay_ED/assets/114019959/679c6105-9983-4787-b7e5-822659ca33a0)
 <br>
 FarmKraft é um jogo de simulação agrícola. Em uma fazenda são plantados morangos,
 cebolas, repolhos, cenouras e abóboras, além das eventuais ervas daninhas. A lavoura pode ser
