@@ -1,11 +1,10 @@
 # Hay Day do Evandro
 Segundo trabalho de ED de 2022/2023
+![HD_SelfHelp_Images_6_1624x1060](https://github.com/Geroldor/HayDay_ED/assets/114019959/ff56fa25-fc5b-46ca-97b9-009da2c9ff32)
 
 
 ## Contexto
-![HD_SelfHelp_Images_6_1624x1060](https://github.com/Geroldor/HayDay_ED/assets/114019959/679c6105-9983-4787-b7e5-822659ca33a0)
-<br>
-FarmKraft é um jogo de simulação agrícola. Em uma fazenda são plantados morangos,
+**FarmKraft** é um *jogo de simulação agrícola*. Em uma fazenda são plantados morangos,
 cebolas, repolhos, cenouras e abóboras, além das eventuais ervas daninhas. A lavoura pode ser
 atacada por pragas, pode ser tratada com defensivos e pode ser melhorada com adubos.
 Eventualmente, as plantações são colhidas e suas produções são contabilizadas.
@@ -24,3 +23,13 @@ assim, sucessivamente.<br>
 Finalmente, as hortaliças de uma região podem espalhar suas sementes para uma região próxima de
 acordo com um certo fator multiplicativo. Por exemplo, se o fator multiplicativo for 2.0, cada morango gerará 2
 novos morangos; se for 0.5, são necessários 2 morangos para que um novo morango seja gerado.
+
+## O que tem que fazer?
+- [ ] .c e .h das formas
+- [ ] corrigir o path(tem algum erro no do trabalho anterior)
+- [ ] corrigir o geo(tem algum erro no do trabalho anterior)
+- [ ] fazer a arvore genocida do Fessor
+- [ ] fazer o .qry
+- [ ] desembolar a mecanica do inseticida e da cura
+- [ ] calcular pontos
+- [ ] colheitadeira
